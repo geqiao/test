@@ -1,1 +1,2 @@
 This is the second file added by Qiao in develop branch.
+Bing modified this file for the first time.
